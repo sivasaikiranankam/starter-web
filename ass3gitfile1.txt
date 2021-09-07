@@ -1,1 +1,1 @@
-This is the text file1 for assignment3 of git 
+This is the text file1 for assignment3 of git with some text is written
